@@ -1,0 +1,6 @@
+/vendor
+composer.json
+.env
+.idea
+.idea/*
+
